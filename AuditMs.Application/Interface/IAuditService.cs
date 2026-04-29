@@ -19,5 +19,7 @@ namespace AuditMs.Application.Interface
         Task<FetchAuditDTO> UpdateAudit(int id,UpdateAuditDTO e);
 
         Task<FetchAuditDTO> FindById(int id);
+
+        //Audit 
     }
 }
