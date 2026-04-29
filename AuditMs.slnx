@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AuditMs.Application/AuditMs.Application.csproj" />
+  <Project Path="AuditMs.Domain/AuditMs.Domain.csproj" />
+  <Project Path="AuditMs.Infrastructure/AuditMs.Infrastructure.csproj" />
+  <Project Path="AuditMs/AuditMs.csproj" />
+</Solution>
